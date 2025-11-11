@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Prisma / Vite caches
+.prisma/
+vite.config.ts.timestamp-*
